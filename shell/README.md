@@ -1,30 +1,24 @@
-# Calculadora em shell
+# Calculadora em Shell
 
-Este é um script de calculadora simples escrito em Shell Bash. Ele permite realizar operações básicas como soma, subtração, multiplicação e divisão.
+Este é um script de calculadora simples escrito em **Shell Bash**. Ele permite realizar operações básicas como soma, subtração, multiplicação e divisão.
 
-## Como Usar
+## 🚀 Como usar
 
-Para rodar esta calculadora, siga os passos abaixo:
-
-1.  **Clone o repositório** (ou baixe o arquivo `calculadora.sh`):
-
-    ```bash
-    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-    cd SEU_REPOSITORIO
-    ```
-
-    *Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pelos seus dados.*
+1. Acesse a pasta do projeto:
+   ```bash
+   cd shell
+   ```
 
 2.  **Torne o script executável**:
-
     ```bash
-    chmod +x calculadora.sh
+    chmod +x calc.sh
     ```
+
 
 3.  **Execute o script**:
 
     ```bash
-    ./calculadora.sh
+    ./calc.sh
     ```
 
     O script irá guiá-lo, pedindo os números e a operação desejada.
