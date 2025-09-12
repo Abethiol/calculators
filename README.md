@@ -20,16 +20,20 @@ Este repositório contém duas versões de uma calculadora simples em linha de c
    cd python
    
 2. Execute
+   ```bash
    python main.py
 
 ### Shell
 1. Acesse a pasta:
-   cd shell
+   ```bash
+    cd shell
 
-2. Dê permissão de execução:
-  chmod +x calc.sh
+3. Dê permissão de execução:
+   ```bash
+   chmod +x calc.sh
 
-3. Rode o script:
+5. Rode o script:
+   ```bash
    ./calc.sh
 
 ## 📜 Licença
